@@ -41,8 +41,10 @@ public:
 
 void part2() {
     //TODO: Implement part 2
+    std::cout << "Hello Maya" << endl;
 }
 
 void part3() {
     //TODO: Implement part 3
+    std::cout << "Hello Maya" << endl;
 }
